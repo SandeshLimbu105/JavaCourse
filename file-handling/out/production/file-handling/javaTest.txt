@@ -1,0 +1,2 @@
+This my first java file handling code.
+It is the text added from file itself.
